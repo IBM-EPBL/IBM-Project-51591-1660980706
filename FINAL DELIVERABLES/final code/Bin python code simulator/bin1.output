@@ -1,0 +1,312 @@
+2022-11-18 11:15:29,174   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:15:29,196   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:15:30,637   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:15:30,639   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:15:32,184   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:15:32,186   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:15:33,628   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:15:33,635   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:15:35,087   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:15:35,091   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:15:36,539   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:15:36,546   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:15:37,996   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:15:37,997   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+chennai, ,manimangalam
+published distance = 65  loadcell:7  lon = 78.177731  lat = 10.678991
+0 %
+Risk warning:17 %
+alert :No need to collect right now 
+chennai, ,manimangalam
+published distance = 65  loadcell:7  lon = 78.177731  lat = 10.678991
+0 %
+Risk warning:17 %
+alert :No need to collect right now 
+2022-11-18 11:15:39,484   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:15:39,491   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:15:40,946   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:15:40,954   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:15:42,405   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:15:42,406   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:15:43,913   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:15:43,921   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:15:45,406   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:15:45,413   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:15:46,836   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:15:46,862   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:15:48,324   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:15:48,332   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:15:49,822   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:15:49,832   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:15:52,252   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:15:52,253   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:15:54,790   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:15:54,790   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:15:56,254   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:15:56,254   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:15:57,738   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:15:57,745   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:15:59,215   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:15:59,222   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:16:00,680   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:16:00,688   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:16:02,182   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:16:02,207   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:16:03,635   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:16:03,636   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:16:05,081   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:16:05,087   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:16:06,526   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:16:06,533   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:16:08,001   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:16:08,008   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:16:09,449   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:16:09,465   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:16:10,884   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:16:10,884   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:16:12,361   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:16:12,365   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:16:14,828   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:16:14,851   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:16:16,308   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:16:16,310   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:16:17,759   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:16:17,759   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:16:19,212   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:16:19,213   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+chennai, ,manimangalam
+published distance = 57  loadcell:9  lon = 78.177731  lat = 10.678991
+0 %
+Risk warning:40 %
+alert :No need to collect right now 
+chennai, ,manimangalam
+published distance = 57  loadcell:9  lon = 78.177731  lat = 10.678991
+0 %
+Risk warning:40 %
+alert :No need to collect right now 
+2022-11-18 11:16:21,709   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:16:21,715   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:16:24,130   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:16:24,137   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:16:26,673   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:16:26,673   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:16:28,144   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:16:28,145   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:16:30,747   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:16:30,760   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:16:33,183   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:16:33,184   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:16:35,659   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:16:35,666   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:16:38,094   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:16:38,104   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:16:40,558   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:16:40,560   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:16:43,010   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:16:43,017   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:16:45,550   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:16:45,557   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:16:48,001   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:16:48,008   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:16:50,433   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:16:50,445   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:16:52,855   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:16:52,881   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:16:55,324   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:16:55,324   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:16:58,826   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:16:58,860   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+chennai, ,manimangalam
+published distance = 23  loadcell:15  lon = 78.177731  lat = 10.678991
+0 %
+Risk warning:dumpster is above 60%
+alert :No need to collect right now 
+chennai, ,manimangalam
+published distance = 23  loadcell:15  lon = 78.177731  lat = 10.678991
+0 %
+Risk warning:dumpster is above 60%
+alert :No need to collect right now 
+2022-11-18 11:17:02,432   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:17:02,434   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:17:04,857   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:17:04,864   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:17:07,315   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:17:07,315   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:17:09,781   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:17:09,803   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:17:12,209   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:17:12,215   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:17:14,653   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:17:14,653   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:17:17,113   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:17:17,119   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:17:19,584   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:17:19,590   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:17:22,068   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:17:22,070   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:17:25,539   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:17:25,546   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:17:28,967   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:17:28,968   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:17:31,485   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:17:31,485   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:17:34,967   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:17:34,967   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:17:38,421   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:17:38,452   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+chennai, ,manimangalam
+published distance = 20  loadcell:9  lon = 78.177731  lat = 10.678991
+0 %
+Risk warning:dumpster is above 60%
+alert :No need to collect right now 
+chennai, ,manimangalam
+published distance = 20  loadcell:9  lon = 78.177731  lat = 10.678991
+0 %
+Risk warning:dumpster is above 60%
+alert :No need to collect right now 
+2022-11-18 11:17:41,882   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:17:41,889   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:17:45,309   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:17:45,311   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:17:48,784   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:17:48,792   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:17:52,209   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:17:52,216   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
+2022-11-18 11:17:55,693   ibmiotf.device.Client      INFO    Connected successfully: d:ktymlx:new:09876
+INFO:ibmiotf.device.Client:Connected successfully: d:ktymlx:new:09876
+2022-11-18 11:17:55,696   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 7
+ERROR:ibmiotf.device.Client:Unexpected disconnect from the IBM Watson IoT Platform: 7
